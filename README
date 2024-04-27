@@ -1,1 +1,4 @@
 #AutomationMax_Streaming
+
+Este script está diseñado para verificar la funcionalidad de las cuentas de streaming de HBO MAX. Utiliza Selenium para automatizar el proceso de iniciar sesión en cada cuenta almacenada en un DataFrame. Una vez completado el proceso, identifica las cuentas que presentan errores, como clave incorrecta o falta de suscripción, y las registra en un archivo para su revisión posterior. Este archivo puede ser enviado por correo electrónico para su análisis. En resumen, el script simplifica y automatiza el proceso de verificación de cuentas de HBO MAX, mejorando la eficiencia del proceso de mantenimiento y garantizando una experiencia de usuario sin interrupciones.
+
